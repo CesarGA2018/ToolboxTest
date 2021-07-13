@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.2.2)
+  - JWTDecode (2.6.1)
+  - MotionToastView (0.1.10)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - JWTDecode (~> 2.6)
+  - MotionToastView
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JWTDecode
+    - MotionToastView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  JWTDecode: 5e6d4b49c2b098f994cf7617401c195c8c06300b
+  MotionToastView: e6e03c88141c2da252cce3f5c4512e76281b4754
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 843b7ee8ac5948ecf9c6830a32d19ab680990f57
+
+COCOAPODS: 1.10.1
